@@ -3,6 +3,10 @@
 --------------------------------------------------------------------------------
 ## Fri Aug 20, 2021
 
+# Practicing good Mike At Eleven publishing habits
+
+[![Practicing good Mike At Eleven publishing habits](http://img.youtube.com/vi/Oikv4qniviU/0.jpg)](https://www.youtube.com/watch?v=Oikv4qniviU "Practicing good Mike At Eleven publishing habits")
+
 Hello World! It's Mike At Eleven! I just launched that website yesterday with
 the intent of doing some live streaming (or at least content releases) on my
 channels (usually YouTube but others soon) at 11:00 AM and PM. And here I am 11
@@ -83,6 +87,8 @@ Thanks for joining me and don't forget to subscribe.
 
 --------------------------------------------------------------------------------
 ## Thu Aug 19, 2021
+
+# Launching MikeAtEleven.com on Github.io
 
 [![Launching MikeAtEleven.com on Github.io](http://img.youtube.com/vi/8fgwnY72omg/0.jpg)](https://www.youtube.com/watch?v=8fgwnY72omg "Launching MikeAtEleven.com on Github.io")
 
