@@ -1,3 +1,5 @@
+# Beginning of Journal
+
 --------------------------------------------------------------------------------
 ## Fri Aug 20, 2021
 
@@ -64,6 +66,20 @@ That's "before". In a moment you will see this entry go live over there...
 
 Not yet. I will take the bottom of yesterday's entry from my main journal while
 we wait and make the below entry technically complete...
+
+Okay, so today's entry is pushed (so far) and yesterday's complete entry will
+be out in a moment. To avoid that in the future, I will always start my Mike At
+Eleven ramblings in this journal/repo. Remember, it's a folder on my drive...
+
+And to make vim work a little more like blogging software, I have a macro that
+does this:
+
+The macro uses that "Bxginning of Journal" text to do the insert at the top of
+this "stream". Changed the spelling here so as to not interfere with the macro.
+And so tomorrow I do this...
+
+Or later tonight at 11. You get the idea. Well anyway, that was Mike At Eleven.
+Thanks for joining me and don't forget to subscribe.
 
 --------------------------------------------------------------------------------
 ## Thu Aug 19, 2021
