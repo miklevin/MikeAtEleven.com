@@ -7,12 +7,12 @@
 
 ### Practicing good Mike At Eleven publishing habits
 
-{% include youtubePlayer.html id="cgw-20Il3Y4" %}
-
 Hello World! It's Mike At Eleven! I just launched that website yesterday with
 the intent of doing some live streaming (or at least content releases) on my
 channels (usually YouTube but others soon) at 11:00 AM and PM. And here I am 11
 AM the next day... woot! We'll see if it sticks.
+
+{% include youtubePlayer.html id="cgw-20Il3Y4" %}
 
 I'll often do silent journal streaming like this, for I'm sure an audience of
 almost no one. But I always have things on my mind and am fine with thinking
@@ -92,14 +92,14 @@ Thanks for joining me and don't forget to subscribe.
 
 # Launching MikeAtEleven.com on Github.io
 
-{% include youtubePlayer.html id="8fgwnY72omg" %}
-
 Hello World! This is a silent live stream. I'm planning on getting a new
 website registered and hosted with github.io publishing in the next few
 minutes. It's all the "new way" for me. Recently I retired my WordPress site at
 MikeLev.in and exported all the content as markdown which github.io pushes out.
 It's not pretty yet, but it's also no longer on WordPress and besides my Github
 membership, I have no hosting costs anymore. 
+
+{% include youtubePlayer.html id="8fgwnY72omg" %}
 
 This is a live performance. Excuse any mistakes. But here we go looking up a
 site we would like to register. My aspiration is to do some sort of video every
