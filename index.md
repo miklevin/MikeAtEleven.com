@@ -60,6 +60,11 @@ principle) for the sake of the site.
 
 And I will show you how my vim blogging macro works. But first...
 
+That's "before". In a moment you will see this entry go live over there...
+
+Not yet. I will take the bottom of yesterday's entry from my main journal while
+we wait and make the below entry technically complete...
+
 --------------------------------------------------------------------------------
 ## Thu Aug 19, 2021
 
@@ -160,3 +165,26 @@ locally, when you push it there's a system that converts it to richer html.
 Okay, let's do our first real entry there. Let's make it this whole entry. I
 might change it later, but my plan is to do something like this (live YouTube
 broadcast for example) every day at eleven either AM or PM.
+
+It'll take a minute or two for that to push. In the meanwhile I'm going to copy
+some files from another repo/site that uses the same theme which takes out the
+banner with an override.
+
+That'll take a few minutes to see again, and I tore out the Google Analytics
+and favicon.ico link. I'll put them in again soon (another evening) when I add
+tracking on that site. But let's see...
+
+And so that's it. I'll try embedding each YouTube video on these pages too if
+possible and let this site evolve. Thanks for joining me and don't forget to
+subscribe!
+It'll take a minute or two for that to push. In the meanwhile I'm going to copy
+some files from another repo/site that uses the same theme which takes out the
+banner with an override.
+
+That'll take a few minutes to see again, and I tore out the Google Analytics
+and favicon.ico link. I'll put them in again soon (another evening) when I add
+tracking on that site. But let's see...
+
+And so that's it. I'll try embedding each YouTube video on these pages too if
+possible and let this site evolve. Thanks for joining me and don't forget to
+subscribe!
