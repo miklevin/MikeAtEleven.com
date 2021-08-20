@@ -1,11 +1,11 @@
-# Beginning of Journal
+# Beginning of Journal _jmp _todo
 
 --------------------------------------------------------------------------------
 ## Fri Aug 20, 2021
 
 # Practicing good Mike At Eleven publishing habits
 
-[![Practicing good Mike At Eleven publishing habits](http://img.youtube.com/vi/Oikv4qniviU/0.jpg)](https://www.youtube.com/watch?v=Oikv4qniviU "Practicing good Mike At Eleven publishing habits")
+[![Practicing good Mike At Eleven publishing habits](http://img.youtube.com/vi/cgw-20Il3Y4/0.jpg)](https://www.youtube.com/watch?v=cgw-20Il3Y4 "Practicing good Mike At Eleven publishing habits")
 
 Hello World! It's Mike At Eleven! I just launched that website yesterday with
 the intent of doing some live streaming (or at least content releases) on my
@@ -212,3 +212,18 @@ tracking on that site. But let's see...
 And so that's it. I'll try embedding each YouTube video on these pages too if
 possible and let this site evolve. Thanks for joining me and don't forget to
 subscribe!
+
+--------------------------------------------------------------------------------
+ _____       ____        
+|_   _|__   |  _ \  ___  
+  | |/ _ \  | | | |/ _ \ 
+  | | (_) | | |_| | (_) |
+  |_|\___/  |____/ \___/ 
+
+_todo
+                         
+- Double-check video
+- Get rid of markdown formatting in vim .md files
+- Trim the beginning and ending of Live Streaming videos (rid of OSB)
+- See if thumnail YouTube embeds can be real embedded player
+- Make a To-Do list of topics, preferably to entice my daughter
