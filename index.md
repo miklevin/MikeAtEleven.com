@@ -1,3 +1,66 @@
+--------------------------------------------------------------------------------
+## Fri Aug 20, 2021
+
+Hello World! It's Mike At Eleven! I just launched that website yesterday with
+the intent of doing some live streaming (or at least content releases) on my
+channels (usually YouTube but others soon) at 11:00 AM and PM. And here I am 11
+AM the next day... woot! We'll see if it sticks.
+
+I'll often do silent journal streaming like this, for I'm sure an audience of
+almost no one. But I always have things on my mind and am fine with thinking
+out loud to myself, and in this case some potential audience because YouTube
+lets me, so hey, why not? It could be the thing that sticks.
+
+Whether or not it sticks, it certainly can be the catalyst for other things.
+The first rule of making stuff happen is to capture your ideas and begin the
+process of actualizing. An idea is more real merely by virtue of writing it
+down. In the information age such as we're in, it actually is real in the sense
+that it's published and shared content that's consumed by other people, plaid
+back in their heads, and that makes it real in at least the sense that stories
+are real. It's no longer locked away.
+
+Okay enough of that. Let's get down to some actual actualization. 1, 2, 3... 1?
+Well, it's really the work day and I'm just taking a short break for this. And
+so I think through what goes next naturally on this site. I work dramatically
+differently from most people, and that makes a lot of difference in how useful
+I am professionally and even how I think in my personal life.
+
+For example, vim. Can you imagine just thinking out loud to yourself like this
+in VSCode? Where would you begin? Where I begin is in a github repo. It's
+actually a git repo that happens to be stored in a private repository on
+Github. Many folks treat git and Github like the same thing. They're not.
+Github is a community site built up around the git program written by Linus
+Torvalds to help with Linux kernel development. Github is a site that sprung up
+around the git program because even though git is already a DISTRIBUTED
+revision control system, one of the places that's nice to distribute your code
+is to a "centralized" location that you can always push to and pull from for
+backup, undo and switching machine locations. Forget about developer
+collaboration for a moment.
+
+Let me demonstrate...
+
+There! Now all my latest journal changes are in Github. Now I don't actually
+publish my daily journal even though I back it up to Github. It's in a private
+repo and I only publish excerpts. One place I publish them is to:
+
+    MikeAtEleven.com
+
+HERE! Or soon to be here. How do I do this? I add another vim buffer. Observe:
+
+It's in my 2nd vim buffer now which I can cycle to with:
+
+    :n
+
+Observe...
+
+That was my entry from yesterday. But I want today's entry over there too. And
+so today's "At Eleven" video will be about making a 2nd entry. Soon I will type
+these things over in that journal (in defiance of my own 1-textfile-for-life
+principle) for the sake of the site. 
+
+And I will show you how my vim blogging macro works. But first...
+
+--------------------------------------------------------------------------------
 ## Thu Aug 19, 2021
 
 Hello World! This is a silent live stream. I'm planning on getting a new
