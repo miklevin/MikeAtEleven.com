@@ -84,6 +84,8 @@ Thanks for joining me and don't forget to subscribe.
 --------------------------------------------------------------------------------
 ## Thu Aug 19, 2021
 
+[![Launching MikeAtEleven.com on Github.io](http://img.youtube.com/vi/8fgwnY72omg/0.jpg)](https://www.youtube.com/watch?v=8fgwnY72omg "Launching MikeAtEleven.com on Github.io")
+
 Hello World! This is a silent live stream. I'm planning on getting a new
 website registered and hosted with github.io publishing in the next few
 minutes. It's all the "new way" for me. Recently I retired my WordPress site at
