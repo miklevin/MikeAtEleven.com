@@ -1,4 +1,6 @@
-# Beginning of Journal _jmp _todo
+# Mike Levin at Eleven
+
+# Beginning of Journal
 
 --------------------------------------------------------------------------------
 ## Fri Aug 20, 2021
