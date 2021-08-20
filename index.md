@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 ## Fri Aug 20, 2021
 
-# Practicing good Mike At Eleven publishing habits
+### Practicing good Mike At Eleven publishing habits
 
 {% include youtubePlayer.html id="cgw-20Il3Y4" %}
 
