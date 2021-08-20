@@ -5,7 +5,7 @@
 
 # Practicing good Mike At Eleven publishing habits
 
-[![Practicing good Mike At Eleven publishing habits](http://img.youtube.com/vi/cgw-20Il3Y4/0.jpg)](https://www.youtube.com/watch?v=cgw-20Il3Y4 "Practicing good Mike At Eleven publishing habits")
+{% include youtubePlayer.html id="cgw-20Il3Y4" %}
 
 Hello World! It's Mike At Eleven! I just launched that website yesterday with
 the intent of doing some live streaming (or at least content releases) on my
@@ -90,7 +90,7 @@ Thanks for joining me and don't forget to subscribe.
 
 # Launching MikeAtEleven.com on Github.io
 
-[![Launching MikeAtEleven.com on Github.io](http://img.youtube.com/vi/8fgwnY72omg/0.jpg)](https://www.youtube.com/watch?v=8fgwnY72omg "Launching MikeAtEleven.com on Github.io")
+{% include youtubePlayer.html id="8fgwnY72omg" %}
 
 Hello World! This is a silent live stream. I'm planning on getting a new
 website registered and hosted with github.io publishing in the next few
