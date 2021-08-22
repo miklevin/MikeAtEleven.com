@@ -18,17 +18,17 @@ child.
 
 Adi is homeschooled and going through a lot of similar experiences now as the
 rest of her generation. Her homeschool experience is suddenly no longer so
-unusual, and that's awesome. She's being raised in part on her YouTube heroes
+unusual, and that's awesome. She's being raised in-part by her YouTube heroes
 and we've been to the YouTube convention in Anaheim, CA a few years back before
 lockdown. She's now 10 and we'll be coning again this year, but this time there
 will be 2 adults and more time at Disney Land. Anyhoo, I digress. Let's talk to
 future Adi.
 
-Hi there kid. I already lost you I bet. Every time I try to teach you something
-you transition. I've got so much to show and teach and help you with in life,
-it's one of the most difficult things that I can't do it in "normal" talking
-format. However I get it. The other side is where you homeschool and you're
-here in the mountains of PA to relax and chill.
+Hi there Kiddo! I already lost you I bet. Every time I try to teach you
+something you transition. I've got so much to show and teach and help you with
+in life, it's one of the most difficult things that I can't do it in "normal"
+talking format. However I get it. The other side is where you homeschool and
+you're here in the mountains of PA to relax and chill.
 
 At least when you're doing your YouTubing, it can be while you're actually
 tubing down the Delaware River like we did last week, or perhaps on the
@@ -90,13 +90,6 @@ Hello Future Adi, my child. I love you so much! I know I referred to you as my
 "daughter" up there, and that may trigger you as not gender neutral enough for
 this day and age, so from here on even on this site, I'll be referring to you
 as my child. Okay, My Child? Later Gater!
-
-
-
-
-
-
-
 
 
 --------------------------------------------------------------------------------
