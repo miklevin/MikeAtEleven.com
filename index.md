@@ -11,7 +11,8 @@ Hello World! It's Mike At Eleven!
 
 The purpose of today's video is to get down a bit of the purpose of this site.
 It's not just to force a self-lesson in commitment and consistency (which it
-is), but it's even more importantly to talk to future-Adi, my daughter.
+is), but it's even more importantly to talk to future-Adi, my <s>daughter</s>
+child.
 
 {% include youtubePlayer.html id="2zeVobb2QBM" %}
 
