@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------
 ## Mon Aug 23, 2021
 
-### VidCon is Cancelled, Making the Best of Life
+### VidCon Cancelled, Making the Best, Internal Voice
 
 VidCon in October is cancelled. Boo! But for the safety of their audience I
 guess it's the right thing. Gonna keep the trip to Disneyland and Anaheim
