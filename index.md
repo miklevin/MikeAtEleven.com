@@ -399,6 +399,19 @@ possible and let this site evolve. Thanks for joining me and don't forget to
 subscribe!
 
 --------------------------------------------------------------------------------
+     ____                   
+    |  _ \  ___  _ __   ___ 
+    | | | |/ _ \| '_ \ / _ \
+    | |_| | (_) | | | |  __/
+    |____/ \___/|_| |_|\___|
+                        
+_done
+
+- Internal Voice (at least I started it)
+- 3 Metaphor Checklist / likewise started it
+- Walrus & The Carpenter (started)
+- The Observation Game (started)
+
      _____       ____        
     |_   _|__   |  _ \  ___  
       | |/ _ \  | | | |/ _ \ 
@@ -407,8 +420,7 @@ subscribe!
 
 _todo
                          
-- Double-check video
 - Get rid of markdown formatting in vim .md files
 - Trim the beginning and ending of Live Streaming videos (rid of OSB)
-- See if thumbnail YouTube embeds can be real embedded player
 - Make a To-Do list of topics, preferably to entice my daughter
+
