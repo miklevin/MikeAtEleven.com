@@ -95,6 +95,8 @@ simulation is just a matter of label choice.
 
 Love ya lots and lots!
 
+[#VidConUS 2021 cancelled](https://twitter.com/miklevin/status/1429829717478289412)
+
 --------------------------------------------------------------------------------
 ## Sun Aug 22, 2021
 
