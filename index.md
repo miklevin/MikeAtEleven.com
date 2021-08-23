@@ -422,7 +422,9 @@ _done
       |_|\___/  |____/ \___/ 
 
 _todo
-                         
+
+- Change Theme  here
+- Add favicon.ico here
 - Get rid of markdown formatting in vim .md files
 - Trim the beginning and ending of Live Streaming videos (rid of OSB)
 - Make a To-Do list of topics, preferably to entice my daughter
