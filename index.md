@@ -425,7 +425,8 @@ _todo
 
 - Change Theme  here
 - Add favicon.ico here
+- Change "BeginninX of Journal" language & make new entry macro more flexible
+- The 3 Orders: Chronological (sequential), Organized & Spontaneous
 - Get rid of markdown formatting in vim .md files
 - Trim the beginning and ending of Live Streaming videos (rid of OSB)
-- Make a To-Do list of topics, preferably to entice my daughter
 
