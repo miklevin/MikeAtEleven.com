@@ -12,6 +12,8 @@ Hello World! Hello Adi!
 Well, what do you know! I actually thought about the topic of today's live
 broadcast before I started. I think I want to let you hear me type...
 
+{% include youtubePlayer.html id="-OerLrSapdE" %}
+
 Okay so now you can hear me type... and talk. But these are silent
 performances. Pushing things through the actual vocal cords changes things. I
 want my ideas to flow exactly like when I narrate to myself in my head, and it
@@ -135,26 +137,6 @@ Think! Observe! Actualize. Repeat.
 Later Gator.
 
 Loved going go-karting with you yesterday :-)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 --------------------------------------------------------------------------------
@@ -587,4 +569,5 @@ _todo
 
 TELL MY STORIES
 - There once was a Billy and Sammy. They have a story. Tell it.
+
 
