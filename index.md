@@ -36,7 +36,7 @@ about you or your life post-platform. Everything expires. All hardware goes
 away. No platform is forever. And I went through a long dry spell of the
 lacking of love-worthy things (Windows 3.1, 95, MacOS, OS X and MacOS again).
 
-You my daughter are growing up in a world full of magic that can keep the mind
+You my child are growing up in a world full of magic that can keep the mind
 occupied WITHOUT long-form reading. I read when I was your age, only these tiny
 1/2-inch thick books like Danny Dunn but they were so ahead of their time
 thought-wise (firefly drones in the 1970s) that they fed something in my soul.
@@ -450,7 +450,7 @@ So let's start out there. Hope that video's still around by the time you're
 reading this (if ever). 
 
 Hello Future Adi, my child. I love you so much! I know I referred to you as my
-"daughter" up there, and that may trigger you as not gender neutral enough for
+"child" up there, and that may trigger you as not gender neutral enough for
 this day and age, so from here on even on this site, I'll be referring to you
 as my child. Okay, My Child? Later Gater!
 
