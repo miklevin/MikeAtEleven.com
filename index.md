@@ -21,8 +21,8 @@ twist and change and rearrange their meaning until you don't know up from down.
 Lock-down taught us a whole bunch of things. I'm sorry it had to be your
 generation coming of age in the Alice/Dorothy sense (there are other senses)
 during this strange period. However, don't just feel bad for yourself and your
-generation. The world is full of magic that only nerds new in my time, and even
-then I was about 18 years old before technology became cool enough. Then
+generation. The world is full of magic that only nerds knew in my time, and
+even then I was about 18 years old before technology became cool enough. Then
 everything I learned about tech/magic and loved so much went away. For me, it
 was like the Internet and the Web going away the day the Amiga died, singing...
 
