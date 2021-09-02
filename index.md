@@ -17,6 +17,8 @@ their "Electron" development platform, which really lets you use all the
 components that went into building the Chrome browser to build custom apps. It
 looks like this...
 
+{% include youtubePlayer.html id="DxHdSE98nP4" %}
+
 And so THAT is also a text editor, coming through a "browser" if you will. This
 is cool and lets Microsoft do such things as Cloud-based text editing and
 embedding VSCode (essentially) into Web pages, like they're doing through
@@ -92,6 +94,10 @@ last long. I want to show you how ol' Dad works so you can pick and choose the
 bits for yourself that you may wish to incorporate.
 
 This is a secret weapon. Want to see it get published?
+
+Okay, that will be on the web in a moment. But let me get the streaming YouTube
+embed ready in the meanwhile... I don't know the video ID yet, but when I stop
+live streaming, YouTube will give it to me. Later gator!
 
 --------------------------------------------------------------------------------
 ## Thu Aug 26, 2021
