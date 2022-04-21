@@ -3,6 +3,57 @@
 # Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Wed Apr 20, 2022
+
+Having a wonderful evening with Nat. Doing the setup for a D&D adventure to
+Procrasti-Nation having to do with the "middle" town between Goblet and Fizz
+being into cooking unusual meat. Adi immediately went to cannibalism but I
+pointed out the world of possibility in D&D.
+
+I told them how Procrasti-Nation was created... oh wait! This goes onto
+mikeateleven.com of course! Okay, copy/pasted this story there. Wow, this is a
+fabulous web-publishing approach. Anyway, we're sitting in the living room of
+the little cottage house we rented for 2-years.
+
+Okay, so plan this adventure. We already established that it is a highly
+accomplished wizard and a silver dragon... ooh, just Googled it. SOOOO glad I
+chose a silver dragon. They like to take the form of humans and live in the
+company of humans and elves. I made an interesting halfling connection too.
+
+A thieving guild troupe of halflings that call themselves the Pickertysnickets
+mounted a campaign against Procrasti-Nation and was the only party to have
+members return from a campaign. The halflings were oddly close-mouthed...
+
+Oh wait! Ahhh! The middle-town between Fizz and Goblet IS Prorasti-Nation with
+the silver dragon actually living in the town as a human with a vast
+underground nation right under the town. The dragon and the seasoned wizard
+with whom the dragon is friends decided rather than to keep running, they'd
+settle down right where they were and take charge of all the campaigns leaving
+to find Procrasti-Nation with misdirection, sending them on wild goose-chases
+and sometimes to their inevitable doom, depending on whether the wizard and/or
+dragon (whichever the adventurers meet first) likes the party or not.
+
+Let's make some identities! Okay...
+
+- Slyvain Brightsmith (the silver dragon)
+- Iana Cognito (the wizard)
+
+Okay, that's good. Now for a few halfling characters and a novel bartender.
+
+- Pikerty Pal
+- Pikerty Pompous
+- Pikerty Pudgy
+
+Okay, and the barkeep:
+
+- Mix Leadington
+
+Thu Apr 21 00:01:55 EDT 2022
+
+Wow, just had a wonderful D&D session with Adi setting up the Procrasti-Nation
+adventure just like planned. They met all the above characters plus a few.
+
+--------------------------------------------------------------------------------
 ## Thu Sep  2, 2021
 
 ### Explaining vim to a 10 Year Old
@@ -395,7 +446,7 @@ generation wouldn't get it so I have to find the pop culture equivalent now.
 Adi talked with Nat and me about that yesterday, your inner voice, where it
 comes from, whether you can turn it on and off and control it, and its
 function. As a compulsive journaler and advocate of the observation game, my
-heart sung for joy that she initiated that topic. It's the early stages of
+heart sung for joy that they initiated that topic. It's the early stages of
 super-smartness. 
 
 The "upper brain" (prefrontal neo cortex and all that) processes information
@@ -413,7 +464,7 @@ use of that experience. For example, learning from it to make better decisions
 later in life because you can look back at it better. It's like reading a book
 and learning from it, except that the book is your own life.
 
-THAT is the observation game. I've been talking to Adi about it since she was
+THAT is the observation game. I've been talking to Adi about it since they was
 old enough to distinguish words. I read the Walrus and The Carpenter to her
 even prenatal. This is deep in my psyche. There are so many things you can
 learn about life and so many ways to improve the way you live your own life (by
@@ -480,11 +531,11 @@ child.
 
 Adi is homeschooled and going through a lot of similar experiences now as the
 rest of her generation. Her homeschool experience is suddenly no longer so
-unusual, and that's awesome. She's being raised in-part by her YouTube heroes
+unusual, and that's awesome. They're being raised in-part by her YouTube heroes
 and we've been to the YouTube convention in Anaheim, CA a few years back before
-lockdown. She's now 10 and we'll be coning again this year, but this time there
-will be 2 adults and more time at Disney Land. Anyhoo, I digress. Let's talk to
-future Adi.
+lockdown. They're now 10 and we'll be coning again this year, but this time
+there will be 2 adults and more time at Disney Land. Anyhoo, I digress. Let's
+talk to future Adi.
 
 Hi there Kiddo! I already lost you I bet. Every time I try to teach you
 something you transition. I've got so much to show and teach and help you with
