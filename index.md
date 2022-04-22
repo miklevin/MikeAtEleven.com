@@ -1,6 +1,6 @@
 # Mike Levin at Eleven
 
-# Beginning of Journal
+## Beginning of Journal
 
 --------------------------------------------------------------------------------
 ## Wed Apr 20, 2022
