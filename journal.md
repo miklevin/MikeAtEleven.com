@@ -59,7 +59,7 @@ adventure just like planned. They met all the above characters plus a few.
 
 --------------------------------------------------------------------------------
 ## Thu Sep  2, 2021
-Explaining vim to a 10 Year Old
+### Explaining vim to a 10 Year Old
 
 Well it's been since August 26 since my last time here! I was only 50 years old
 at the time. I'm now 51. Hmmm, what to write to my kid? Well, your dad as you
