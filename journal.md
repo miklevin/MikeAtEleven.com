@@ -7,6 +7,7 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed Apr 20, 2022
+### Planning A Dungeons & Dragons Campaign For The Kid
 
 Having a wonderful evening with Nat. Doing the setup for a D&D adventure to
 Procrasti-Nation having to do with the "middle" town between Goblet and Fizz
@@ -58,8 +59,7 @@ adventure just like planned. They met all the above characters plus a few.
 
 --------------------------------------------------------------------------------
 ## Thu Sep  2, 2021
-
-### Explaining vim to a 10 Year Old
+Explaining vim to a 10 Year Old
 
 Well it's been since August 26 since my last time here! I was only 50 years old
 at the time. I'm now 51. Hmmm, what to write to my kid? Well, your dad as you
@@ -157,7 +157,6 @@ live streaming, YouTube will give it to me. Later gator!
 
 --------------------------------------------------------------------------------
 ## Thu Aug 26, 2021
-
 ### I'm 51 Years Old Tomorrow
 
 Hello World! Well, I missed 11 AM as I had hoped to be here by, but hey, let's
@@ -288,7 +287,6 @@ video over. Later gater!
 
 --------------------------------------------------------------------------------
 ## Tue Aug 24, 2021
-
 ### Life is a Game of Connect The Dots
 
 Hello World! Hello Adi! 
@@ -425,7 +423,6 @@ Loved going go-karting with you yesterday :-)
 
 --------------------------------------------------------------------------------
 ## Mon Aug 23, 2021
-
 ### VidCon Cancelled, Making the Best, Internal Voice
 
 VidCon in October is cancelled. Boo! But for the safety of their audience I
@@ -520,7 +517,6 @@ Love ya lots and lots!
 
 --------------------------------------------------------------------------------
 ## Sun Aug 22, 2021
-
 ### Hello to Future At Eleven
 
 Hello World! It's Mike At Eleven!
@@ -610,7 +606,6 @@ as my child. Okay, My Child? Later Gater!
 
 --------------------------------------------------------------------------------
 ## Fri Aug 20, 2021
-
 ### Practicing good Mike At Eleven publishing habits
 
 Hello World! It's Mike At Eleven! I just launched that website yesterday with
@@ -695,8 +690,7 @@ Thanks for joining me and don't forget to subscribe.
 
 --------------------------------------------------------------------------------
 ## Thu Aug 19, 2021
-
-# Launching MikeAtEleven.com on Github.io
+### Launching MikeAtEleven.com on Github.io
 
 Hello World! This is a silent live stream. I'm planning on getting a new
 website registered and hosted with github.io publishing in the next few
