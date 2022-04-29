@@ -4,7 +4,7 @@ title: "Mike's At Eleven Blog"
 slug: blog
 ---
 
-## [Mike's At Eleven Blog as One Page](/journal/)
+### [Mike's At Eleven Blog as One Page](/journal/)
 
 
 
