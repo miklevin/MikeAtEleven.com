@@ -4,6 +4,10 @@ title: "Mike's At Eleven Blog"
 slug: blog
 ---
 
+[Single Page Mike's At Eleven Blog](/journal/)
+
+
+
 - [Planning A Dungeons & Dragons Campaign For The Kid](/blog/planning-dungeons-dragons-campaign-kid/)
 - [Explaining vim to a 10 Year Old](/blog/explaining-vim-10-year-old/)
 - [I'm 51 Years Old Tomorrow](/blog/i-m-51-years-old-tomorrow/)
