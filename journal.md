@@ -515,6 +515,8 @@ Love ya lots and lots!
 
 [#VidConUS 2021 cancelled](https://twitter.com/miklevin/status/1429829717478289412)
 
+End
+
 --------------------------------------------------------------------------------
 ## Sun Aug 22, 2021
 ### Hello to Future At Eleven
@@ -815,7 +817,6 @@ And so that's it. I'll try embedding each YouTube video on these pages too if
 possible and let this site evolve. Thanks for joining me and don't forget to
 subscribe!
 
---------------------------------------------------------------------------------
      ____                   
     |  _ \  ___  _ __   ___ 
     | | | |/ _ \| '_ \ / _ \
@@ -829,7 +830,6 @@ _done
 - Walrus & The Carpenter (started)
 - The Observation Game (started)
 
---------------------------------------------------------------------------------
      _____       ____        
     |_   _|__   |  _ \  ___  
       | |/ _ \  | | | |/ _ \ 
