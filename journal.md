@@ -823,13 +823,14 @@ subscribe!
     | |_| | (_) | | | |  __/
     |____/ \___/|_| |_|\___|
                         
-_done
+\_done
 
 - Internal Voice (at least I started it)
 - 3 Metaphor Checklist / likewise started it
 - Walrus & The Carpenter (started)
 - The Observation Game (started)
- 
+
+To do
 
      _____       ____        
     |_   _|__   |  _ \  ___  
@@ -837,7 +838,7 @@ _done
       | | (_) | | |_| | (_) |
       |_|\___/  |____/ \___/ 
 
-_todo
+\_todo
 
 - Change Theme  here
 - Add favicon.ico here
