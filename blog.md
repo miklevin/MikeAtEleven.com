@@ -6,7 +6,7 @@ slug: blog
 permalink: /blog/
 ---
 
-### [Mike's At Eleven Blog as One Page](/journal/)
+### [Mike Levin Home](/) [Mike's At Eleven Blog as One Page](/journal/)
 
 
 
