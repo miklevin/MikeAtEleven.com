@@ -6,8 +6,6 @@ slug: blog
 permalink: /blog/
 ---
 
-### [Mike's At Eleven Blog as One Page](/journal/)
-
 
 
 - 2021-09-02 [Planning A Dungeons & Dragons Campaign For The Kid](/blog/planning-a-dungeons-dragons-campaign-for-the-kid/)
