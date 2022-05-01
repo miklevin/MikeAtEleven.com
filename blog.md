@@ -6,7 +6,7 @@ slug: blog
 permalink: /blog/
 ---
 
-[Mike's At Eleven Blog as 1 page]
+[Mike's At Eleven Blog as 1 page](/journal/)
 
 
 
