@@ -7,6 +7,7 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Mon May 02, 2022
+### Adi, Meet My First Girlfriend, The Amiga
 
 Once upon a time Adi, your daddy didn't like computers. I fancied myself an
 "art person". I had an Uncle Mort who said I should like something because it
