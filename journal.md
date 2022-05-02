@@ -6,6 +6,40 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 ## Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Mon May 02, 2022
+
+Once upon a time Adi, your daddy didn't like computers. I fancied myself an
+"art person". I had an Uncle Mort who said I should like something because it
+had lots of screens and stuff. He's a suburban sprawl developer who turned
+himself into some sort of Rolls Royce-driving Palm Springs Florida royalty who
+didn't want to communicate with friends and family. I took offense to his
+labeling me, but years later I did fall in love with computers, screens and
+stuff. It wasn't video games. It was for art-work. It was the merging of art
+and computers. Here's a video that sort of captures it.
+
+{% include youtubePlayer.html id="nSONKMisWis" %}
+
+They called it a WIMP interface, Windows, Icons Mouse and Pointer (or pull-down
+menu). I guess I was sort of a wimp. I fell in love with the Amiga computer in
+particular, and this was one of the mixed-blessings of my life. I actually went
+to work for Commodore Computers in Westchester, Pennsylvania where the US
+office was headquartered. I was the ultimate fanboy, leading the local
+Philadelphia Amiga Users' Group that met out of Drexel University where I went
+to college and helped secure the room for our meetings.
+
+Then the Amiga died and everything I learned was lost effort. Or so I thought.
+It turned out that everything ***other*** than the WIMPy parts of this computer
+were based on something called UNIX. Unix is all that magical incantation stuff
+that the presenter said you didn't have to deal with anymore. Ironically, I
+drifted away from art and towards the geeky computer stuff. And so it's not
+really the graphics or the screens or the animation that did me good. It was
+the text. It was the vim text editor. It was piping data. It was the
+command-line interface.
+
+I am typing this to you now because of that. 
+
+
+--------------------------------------------------------------------------------
 ## Wed Apr 20, 2022
 ### Planning A Dungeons & Dragons Campaign For The Kid
 
