@@ -1,5 +1,8 @@
+plugins:
+  - jekyll-feed
 theme: jekyll-theme-hacker
 author: Mike Levin
 permalink: /:slug/
 gaid: G-L7L2XR3J2G
 title: Mike At Eleven | MikeAtEleven.com
+description: Welcome to Mike At Eleven | MikeAtEleven.com
