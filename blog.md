@@ -7,7 +7,8 @@ permalink: /blog/
 ---
 
 
-- [Rainbow Sword Warrior by Adi Levin](/blog/rainbow-sword-warrior-by-adi-levin/)
+- [Post 19](/blog/post-19/)
+- [Adi as Hashira Demon Slayer](/blog/adi-as-hashira-demon-slayer/)
 - [Murray The Fury by Adi Levin](/blog/murray-the-fury-by-adi-levin/)
 - [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
 - [This Bodes Well by Adi Levin](/blog/this-bodes-well-by-adi-levin/)

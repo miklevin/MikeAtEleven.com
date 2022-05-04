@@ -7,10 +7,39 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-### Rainbow Sword Warrior by Adi Levin
 
-![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)  
+I had some great communication with Adi yesterday and today adjusting one of
+the stand-alone picture blog pages. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
+### Adi as Hashira Demon Slayer
+
+![Adi as Hashira Demon Slayer.jpg](/assets/images/adi-as-hashira-demon-slayer.jpg)  
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
