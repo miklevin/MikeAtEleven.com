@@ -10,6 +10,7 @@ permalink: /blog/
 
 
 
+- [Post 9](/blog/post-9/)
 - [Adi, Meet My First Girlfriend, The Amiga](/blog/adi-meet-my-first-girlfriend-the-amiga/)
 - [Planning A Dungeons & Dragons Campaign For The Kid](/blog/planning-a-dungeons-dragons-campaign-for-the-kid/)
 - [Explaining vim to a 10 Year Old](/blog/explaining-vim-to-a-10-year-old/)
