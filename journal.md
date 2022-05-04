@@ -9,20 +9,19 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 ## Wed May 04, 2022
 ### Murray The Fury by Adi Levin
 
-
 ![Murray The Fury](/assets/images/murray-the-fury.jpg)  \
 
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-Anime Cat Girl by Adi Levin
+### Anime Cat Girl by Adi Levin
 
 ![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)  \
 
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-This Bodes Well by Adi Levin
+### This Bodes Well by Adi Levin
 
 ![This Bodes Well](/assets/images/this-bodes-well.jpg)  \
 
@@ -36,7 +35,7 @@ This Bodes Well by Adi Levin
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-Adi as Nezuko Kamodo Demon Slayer by Adi Levin
+### Adi as Nezuko Kamodo Demon Slayer by Adi Levin
 
 ![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)  
 

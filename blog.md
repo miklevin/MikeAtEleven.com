@@ -8,10 +8,10 @@ permalink: /blog/
 
 
 - [Murray The Fury by Adi Levin](/blog/murray-the-fury-by-adi-levin/)
-- [Post 17](/blog/post-17/)
-- [Post 16](/blog/post-16/)
+- [Anime Cat Girl by Adi Levin](/blog/anime-cat-girl-by-adi-levin/)
+- [This Bodes Well by Adi Levin](/blog/this-bodes-well-by-adi-levin/)
 - [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
-- [Post 14](/blog/post-14/)
+- [Adi as Nezuko Kamodo Demon Slayer by Adi Levin](/blog/adi-as-nezuko-kamodo-demon-slayer-by-adi-levin/)
 - [Rainbow Sword Warrior by Adi Levin](/blog/rainbow-sword-warrior-by-adi-levin/)
 - [Keyword Adi's Art-work For Some SEO Goodness](/blog/keyword-adis-art-work-for-some-seo-goodness/)
 - [Here's Some of Adi's Art](/blog/heres-some-of-adis-art/)
