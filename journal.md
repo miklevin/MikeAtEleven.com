@@ -7,12 +7,18 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Tue May 03, 2022
+### Here's Some of Adi's Art
 
 Wow, I just shared this website with Adi. It's a lot earlier than I planned. I
 figured I'd let them discover it when I was not on this Earth anymore. Hey, I
 guess it's a lot better this way because they're interested and I got their
 go-ahead to publish their artwork!
 
+![1](/assets/images/IMG_4238.jpg)
+![2](/assets/images/IMG_4239.jpg)
+![3](/assets/images/IMG_4241.jpg)
+![4](/assets/images/IMG_4244.jpg)
+![5](/assets/images/IMG_4245.jpg)
 
 
 

@@ -7,6 +7,7 @@ permalink: /blog/
 ---
 
 
+- [Here's Some of Adi's Art](/blog/here-s-some-of-adi-s-art/)
 - [Got An Electric Bike So We Can Canoe More](/blog/got-an-electric-bike-so-we-can-canoe-more/)
 - [I'll See You At Eleven (But Not Tonight... Yawn!)](/blog/i-ll-see-you-at-eleven-but-not-tonight-yawn/)
 - [Adi, Meet My First Girlfriend, The Amiga](/blog/adi-meet-my-first-girlfriend-the-amiga/)
