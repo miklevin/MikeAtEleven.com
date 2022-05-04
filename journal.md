@@ -46,7 +46,9 @@ Okay, now run the macro to format it like this:
 ![1](/assets/images/IMG_4238.jpg)
 ```
 
-Okay, done. Now move it over to MikeAtEleven.com (including THIS post).
+Okay, done. Now move it over to MikeAtEleven.com (including THIS post). Done
+again. But looking at the output, I see I need to hardwire a line-return after
+every picture and change the order...
 
 
 --------------------------------------------------------------------------------
@@ -58,19 +60,17 @@ figured I'd let them discover it when I was not on this Earth anymore. Hey, I
 guess it's a lot better this way because they're interested and I got their
 go-ahead to publish their artwork!
 
-![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)
-![Adicat](/assets/images/adicat.jpg)
-![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)
-![Demon Girl Face](/assets/images/demon-girl-face.jpg)
-![Demon Girl](/assets/images/demon-girl.jpg)
-![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)
-![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)
-![Mel](/assets/images/mel.jpg)
-![Murray The Fury](/assets/images/murray-the-fury.jpg)
-![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)
-![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)
-![Rainbow Sword](/assets/images/rainbow-sword.jpg)
-![This Bodes Well](/assets/images/this-bodes-well.jpg)
+![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)  
+![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)  
+![Adicat](/assets/images/adicat.jpg)  
+![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)  
+![Demon Girl Face](/assets/images/demon-girl-face.jpg)  
+![Demon Girl](/assets/images/demon-girl.jpg)  
+![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)  
+![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)  
+![Murray The Fury](/assets/images/murray-the-fury.jpg)  
+![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)  
+![This Bodes Well](/assets/images/this-bodes-well.jpg)  
 
 
 --------------------------------------------------------------------------------
