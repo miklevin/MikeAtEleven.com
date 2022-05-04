@@ -114,7 +114,12 @@ really the graphics or the screens or the animation that did me good. It was
 the text. It was the vim text editor. It was piping data. It was the
 command-line interface.
 
-I am typing this to you now because of that. 
+I am typing this to you now because of that. I don't do much hero-worship, but
+when I do, it's Jay Miner. I had a Mandala system like they show in this video,
+Adi, plus a Video Toaster. I gave it to a friend named Steve Elsner. I wonder
+if he still has it.
+
+{% include youtubePlayer.html id="n-MqC35aWrQ" %}
 
 But you should continue pursing your art-work with and without computers. You
 are a wonderful artist and I am so proud of you!
