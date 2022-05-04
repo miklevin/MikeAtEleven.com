@@ -7,36 +7,6 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-
-I had some great communication with Adi yesterday and today adjusting one of
-the stand-alone picture blog pages. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------
-## Wed May 04, 2022
 ### Adi as Hashira Demon Slayer
 
 ![Adi as Hashira Demon Slayer.jpg](/assets/images/adi-as-hashira-demon-slayer.jpg)  
@@ -134,17 +104,17 @@ figured I'd let them discover it when I was not on this Earth anymore. Hey, I
 guess it's a lot better this way because they're interested and I got their
 go-ahead to publish their artwork!
 
-![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)  \
-![Murray The Fury](/assets/images/murray-the-fury.jpg)  \
-![Adicat](/assets/images/adicat.jpg)  \
-![This Bodes Well](/assets/images/this-bodes-well.jpg)  \
-![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)  \
-![Demon Girl Face](/assets/images/demon-girl-face.jpg)  \
-![Demon Girl](/assets/images/demon-girl.jpg)  \
-![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)  \
-![Rainbow Dash Combined With Elmo and Nezuko.jpg](/assets/images/rainbow dash-combined-with-elmo-and-nezuko.jpg)  
-![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)  \
-![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)  \
+![Adi as Hashira Demon Slayer.jpg](/assets/images/adi-as-hashira-demon-slayer.jpg)
+![Murray The Fury](/assets/images/murray-the-fury.jpg)
+![Adicat](/assets/images/adicat.jpg)
+![This Bodes Well](/assets/images/this-bodes-well.jpg)
+![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)
+![Demon Girl Face](/assets/images/demon-girl-face.jpg)
+![Demon Girl](/assets/images/demon-girl.jpg)
+![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)
+![Rainbow Dash Combined With Elmo and Nezuko.jpg](/assets/images/rainbow dash-combined-with-elmo-and-nezuko.jpg)
+![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)
+![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)
 
 --------------------------------------------------------------------------------
 ## Tue May 03, 2022
