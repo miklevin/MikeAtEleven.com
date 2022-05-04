@@ -7,6 +7,7 @@ permalink: /blog/
 ---
 
 
+- [Got An Electric Bike So We Can Canoe More](/blog/got-an-electric-bike-so-we-can-canoe-more/)
 - [I'll See You At Eleven (But Not Tonight... Yawn!)](/blog/i-ll-see-you-at-eleven-but-not-tonight-yawn/)
 - [Adi, Meet My First Girlfriend, The Amiga](/blog/adi-meet-my-first-girlfriend-the-amiga/)
 - [Planning A Dungeons & Dragons Campaign For The Kid](/blog/planning-a-dungeons-dragons-campaign-for-the-kid/)

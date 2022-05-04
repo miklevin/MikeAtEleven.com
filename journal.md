@@ -7,6 +7,17 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Tue May 03, 2022
+### Got An Electric Bike So We Can Canoe More
+
+Hi Adi. I bought an electric bike that we can throw in the canoe when we go
+down the river. This will let us take the canoe down the river. We can start
+with just one short trip.
+
+{% include youtubePlayer.html id="HzB_C2dGnBs" %}
+
+
+--------------------------------------------------------------------------------
+## Tue May 03, 2022
 ### I'll See You At Eleven (But Not Tonight... Yawn!)
 
 Hi Adi. I love you more than anything. One of the small things I can do for you
