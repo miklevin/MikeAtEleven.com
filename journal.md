@@ -7,7 +7,7 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-### Adi as Hashira Demon Slayer
+### Adi as Hashira Demon Slayer by Adi Levin
 
 ![Adi as Hashira Demon Slayer.jpg](/assets/images/adi-as-hashira-demon-slayer.jpg)  
 

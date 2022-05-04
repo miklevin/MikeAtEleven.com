@@ -7,7 +7,7 @@ permalink: /blog/
 ---
 
 
-- [Adi as Hashira Demon Slayer](/blog/adi-as-hashira-demon-slayer/)
+- [Adi as Hashira Demon Slayer by Adi Levin](/blog/adi-as-hashira-demon-slayer-by-adi-levin/)
 - [Murray The Fury by Adi Levin](/blog/murray-the-fury-by-adi-levin/)
 - [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
 - [This Bodes Well by Adi Levin](/blog/this-bodes-well-by-adi-levin/)
