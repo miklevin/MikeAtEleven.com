@@ -6,9 +6,6 @@ slug: blog
 permalink: /blog/
 ---
 
-[MikeAtEleven.com Blog as 1 page](/journal/)
-
-
 
 - [I'll See You At Eleven (But Not Tonight... Yawn!)](/blog/i-ll-see-you-at-eleven-but-not-tonight-yawn/)
 - [Adi, Meet My First Girlfriend, The Amiga](/blog/adi-meet-my-first-girlfriend-the-amiga/)
