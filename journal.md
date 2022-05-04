@@ -15,6 +15,10 @@ with just one short trip.
 
 {% include youtubePlayer.html id="HzB_C2dGnBs" %}
 
+Our time in the Poconos is probably winding down. I will make sure that these
+last 2 months are packed with as much good stuff as I can. And even after I
+come back to Staten Island to be closer to you, we will find ways to use our
+mountain and river skills.
 
 --------------------------------------------------------------------------------
 ## Tue May 03, 2022
@@ -599,8 +603,7 @@ Hello World! It's Mike At Eleven!
 
 The purpose of today's video is to get down a bit of the purpose of this site.
 It's not just to force a self-lesson in commitment and consistency (which it
-is), but it's even more importantly to talk to future-Adi, my <s>daughter</s>
-child.
+is), but it's even more importantly to talk to future-Adi, my child.
 
 {% include youtubePlayer.html id="2zeVobb2QBM" %}
 
@@ -622,12 +625,14 @@ At least when you're doing your YouTubing, it can be while you're actually
 tubing down the Delaware River like we did last week, or perhaps on the
 trampoline big enough for four in your front yard next to the zipline where you
 can zoom down a cable like Batman or Kim Possible, or maybe a nice bonfire in
-our front yard in our firepit and so on. There's a treehouse (really a hunter's
-chair in the tree) and archery and lots of other little things to show you that
-real reality is sometimes just or more interesting than the online stuff. And I
-see you get it. Lead by example, not by words. That's been my new mantra and
-when quarantine set in, you saw me spring into action to make sure you weren't
-having the same shut-in experience as so many from your generation.
+our front yard in our firepit and so on. 
+
+There's a treehouse (really a hunter's chair in the tree) and archery and lots
+of other little things to show you that real reality is sometimes just or more
+interesting than the online stuff. And I see you get it. Lead by example, not
+by words. That's been my new mantra and when quarantine set in, you saw me
+spring into action to make sure you weren't having the same shut-in experience
+as so many from your generation.
 
 Advice? I've got a lot. Who knows if it will even be relevant to your life by
 the time you read this, however we all stand on the shoulders of giants. And
