@@ -113,7 +113,7 @@ go-ahead to publish their artwork!
 ![Demon Girl Face](/assets/images/demon-girl-face.jpg)  \
 ![Demon Girl](/assets/images/demon-girl.jpg)  \
 ![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)  \
-![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)  \
+![Rainbow Dash Combined With Elmo and Nezuko.jpg](/assets/images/rainbow dash-combined-with-elmo-and-nezuko.jpg)  
 ![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)  \
 ![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)  \
 
