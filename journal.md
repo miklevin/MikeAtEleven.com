@@ -7,6 +7,36 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
+This Bodes Well by Adi Levin
+
+![This Bodes Well](/assets/images/this-bodes-well.jpg)  \
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
 ### Adi Cat by Adi Levin
 
 ![Adicat](/assets/images/adicat.jpg)  
@@ -84,17 +114,17 @@ figured I'd let them discover it when I was not on this Earth anymore. Hey, I
 guess it's a lot better this way because they're interested and I got their
 go-ahead to publish their artwork!
 
-![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)  
-![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)  
-![Adicat](/assets/images/adicat.jpg)  
-![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)  
-![Demon Girl Face](/assets/images/demon-girl-face.jpg)  
-![Demon Girl](/assets/images/demon-girl.jpg)  
-![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)  
-![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)  
-![Murray The Fury](/assets/images/murray-the-fury.jpg)  
-![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)  
-![This Bodes Well](/assets/images/this-bodes-well.jpg)  
+![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)  \
+![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)  \
+![Adicat](/assets/images/adicat.jpg)  \
+![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)  \
+![Demon Girl Face](/assets/images/demon-girl-face.jpg)  \
+![Demon Girl](/assets/images/demon-girl.jpg)  \
+![Dorothy Hairless Sphynx Cat Dark Lord](/assets/images/dorothy-hairless-sphynx-cat-dark-lord.jpg)  \
+![Dual Color Har Womans Face](/assets/images/dual-color-har-womans-face.jpg)  \
+![Murray The Fury](/assets/images/murray-the-fury.jpg)  \
+![Nezuko Kamado Sketch](/assets/images/nezuko-kamado-sketch.jpg)  \
+![This Bodes Well](/assets/images/this-bodes-well.jpg)  \
 
 
 --------------------------------------------------------------------------------
