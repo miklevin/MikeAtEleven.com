@@ -7,6 +7,9 @@ permalink: /blog/
 ---
 
 
+- [Murray The Fury by Adi Levin](/blog/murray-the-fury-by-adi-levin/)
+- [Post 17](/blog/post-17/)
+- [Post 16](/blog/post-16/)
 - [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
 - [Post 14](/blog/post-14/)
 - [Rainbow Sword Warrior by Adi Levin](/blog/rainbow-sword-warrior-by-adi-levin/)

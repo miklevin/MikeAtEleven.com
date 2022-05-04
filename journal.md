@@ -7,32 +7,24 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
+### Murray The Fury by Adi Levin
+
+
+![Murray The Fury](/assets/images/murray-the-fury.jpg)  \
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
+Anime Cat Girl by Adi Levin
+
+![Anime Cat Girl](/assets/images/anime-cat-girl.jpg)  \
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
 This Bodes Well by Adi Levin
 
 ![This Bodes Well](/assets/images/this-bodes-well.jpg)  \
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 --------------------------------------------------------------------------------
