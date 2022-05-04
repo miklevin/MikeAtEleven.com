@@ -7,6 +7,9 @@ permalink: /blog/
 ---
 
 
+- [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
+- [Post 14](/blog/post-14/)
+- [Rainbow Sword Warrior by Adi Levin](/blog/rainbow-sword-warrior-by-adi-levin/)
 - [Keyword Adi's Art-work For Some SEO Goodness](/blog/keyword-adis-art-work-for-some-seo-goodness/)
 - [Here's Some of Adi's Art](/blog/heres-some-of-adis-art/)
 - [Got An Electric Bike So We Can Canoe More](/blog/got-an-electric-bike-so-we-can-canoe-more/)

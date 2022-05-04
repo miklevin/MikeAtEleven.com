@@ -7,6 +7,27 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
+### Adi Cat by Adi Levin
+
+![Adicat](/assets/images/adicat.jpg)  
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
+Adi as Nezuko Kamodo Demon Slayer by Adi Levin
+
+![Adi As Nezuko Kamado Demon Slayer](/assets/images/adi-as-nezuko-kamado-demon-slayer.jpg)  
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
+### Rainbow Sword Warrior by Adi Levin
+
+![Rainbow Sword Warrior](/assets/images/rainbow-sword-warrior.jpg)  
+
+
+--------------------------------------------------------------------------------
+## Wed May 04, 2022
 ### Keyword Adi's Art-work For Some SEO Goodness
 
 Okay, that last post went well, right down to the slugification of a
@@ -48,7 +69,10 @@ Okay, now run the macro to format it like this:
 
 Okay, done. Now move it over to MikeAtEleven.com (including THIS post). Done
 again. But looking at the output, I see I need to hardwire a line-return after
-every picture and change the order...
+every picture and change the order... okay, better.
+
+It's almost 11. I would have liked to have made a page per art. Do so for just
+a few. Small window... go!
 
 
 --------------------------------------------------------------------------------
