@@ -83,6 +83,10 @@ are a wonderful artist and I am so proud of you!
 
 The geeky stuff will come later if you care to learn it.
 
+This site is the new refrigerator door!
+
+![Mel](/assets/images/mel.jpg)
+
 --------------------------------------------------------------------------------
 ## Wed Apr 20, 2022
 ### Planning A Dungeons & Dragons Campaign For The Kid
