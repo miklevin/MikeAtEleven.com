@@ -63,6 +63,10 @@ command-line interface.
 
 I am typing this to you now because of that. 
 
+But you should continue pursing your art-work with and without computers. You
+are a wonderful artist and I am so proud of you!
+
+The geeky stuff will come later if you care to learn it.
 
 --------------------------------------------------------------------------------
 ## Wed Apr 20, 2022
