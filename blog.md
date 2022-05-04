@@ -7,6 +7,7 @@ permalink: /blog/
 ---
 
 
+- [Keyword Adi's Art-work For Some SEO Goodness](/blog/keyword-adis-art-work-for-some-seo-goodness/)
 - [Here's Some of Adi's Art](/blog/heres-some-of-adis-art/)
 - [Got An Electric Bike So We Can Canoe More](/blog/got-an-electric-bike-so-we-can-canoe-more/)
 - [I'll See You At Eleven (But Not Tonight... Yawn!)](/blog/ill-see-you-at-eleven-but-not-tonight-yawn/)

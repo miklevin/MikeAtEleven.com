@@ -6,6 +6,50 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 ## Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Wed May 04, 2022
+### Keyword Adi's Art-work For Some SEO Goodness
+
+Okay, that last post went well, right down to the slugification of a
+challenging piece of Python code as the headline (on MikeLevinSEO.com). This
+bodes well. However, it's 9:00 AM and it'll be 11:00 AM before you know it, and
+I promised my kid that I'd have their artwork up at eleven. 
+
+Resonate the music of their life at eleven. Everybody loves to hear their name
+at eleven. It's the gift that keeps on giving at eleven. Instill a kind of deep
+and abiding internal resiliency at eleven. Keep your word at eleven. Get
+started now, before it's eleven. 1, 2, 3... 1?
+
+First I need to finish updating my release system so that it picks up any
+changes in the images folder. Okay, done. Next I need to actually keyword the
+different images Adi sent me, merely by changing their filenames to something
+that reflects what they told me yesterday...
+
+Okay, cd into that folder and do an ls -l:
+
+    adi-as-nezuko-kamado-demon-slayer.jpg
+    adicat.jpg
+    anime-cat-girl.jpg
+    demon-girl-face.jpg
+    demon-girl.jpg
+    dorothy-hairless-sphynx-cat-dark-lord.jpg
+    dual-color-har-womans-face.jpg
+    mel.jpg
+    murray-the-fury.jpg
+    nezuko-kamado-sketch.jpg
+    rainbow-sword-warrior.jpg
+    rainbow-sword.jpg
+    this-bodes-well.jpg
+
+Okay, now run the macro to format it like this:
+
+```markdown
+![1](/assets/images/IMG_4238.jpg)
+```
+
+Okay, done. Now move it over to MikeAtEleven.com (including THIS post).
+
+
+--------------------------------------------------------------------------------
 ## Tue May 03, 2022
 ### Here's Some of Adi's Art
 
