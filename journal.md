@@ -42,7 +42,7 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
-### Adi as Nezuko Kamodo Demon Slayer by Adi Levin
+### Rainbow Dash Combined With Elmo and Nezuko by Adi Levin
 
 ![Rainbow Dash Combined With Elmo and Nezuko.jpg](/assets/images/rainbow dash-combined-with-elmo-and-nezuko.jpg)  
 

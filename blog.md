@@ -12,7 +12,7 @@ permalink: /blog/
 - [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
 - [This Bodes Well by Adi Levin](/blog/this-bodes-well-by-adi-levin/)
 - [Anime Cat Girl by Adi Levin](/blog/anime-cat-girl-by-adi-levin/)
-- [Adi as Nezuko Kamodo Demon Slayer by Adi Levin](/blog/adi-as-nezuko-kamodo-demon-slayer-by-adi-levin/)
+- [Rainbow Dash Combined With Elmo and Nezuko by Adi Levin](/blog/rainbow-dash-combined-with-elmo-and-nezuko-by-adi-levin/)
 - [Keyword Adi's Art-work For Some SEO Goodness](/blog/keyword-adis-art-work-for-some-seo-goodness/)
 - [Here's Some of Adi's Art](/blog/heres-some-of-adis-art/)
 - [Got An Electric Bike So We Can Canoe More](/blog/got-an-electric-bike-so-we-can-canoe-more/)
