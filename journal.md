@@ -117,8 +117,20 @@ command-line interface.
 I am typing this to you now because of that. I don't do much hero-worship, but
 when I do, it's Jay Miner. {% include youtubePlayer.html id="n-MqC35aWrQ" %}
 
-But you should continue pursing your art-work with and without computers. You
-are a wonderful artist and I am so proud of you!
+Jay Miner is a subversive. He is The Alchemist, a real-life John Percival
+Hackworth. Please read Diamond Age someday. It is the ultimate Alice / Dorthy
+story.
+
+I gave my 2nd-to-last Amiga, an Amiga 2000 decked-out with a 68030-card, Video
+Toaster and Mandela virtual reality system to a friend, Steve Elsner. I wonder
+if he still has it. He made a profound impact on me when I tried pulling him
+into my projects in his youth, and he said he had another project and showed me
+a picture of his new baby. And now I'm writing this to you.
+
+Adi, regardless of my love for the Amiga, computers and tech, I think you
+should continue with your art. It's way more fundamental. Please continue
+pursing your art-work with and without computers. You are a wonderful artist
+and I am so proud of you!
 
 The geeky stuff will come later if you care to learn it.
 
