@@ -7,6 +7,38 @@ description: Mike Levin Sending Messages To Future Adi At Eleven
 
 --------------------------------------------------------------------------------
 ## Tue May 03, 2022
+
+Wow, I just shared this website with Adi. It's a lot earlier than I planned. I
+figured I'd let them discover it when I was not on this Earth anymore. Hey, I
+guess it's a lot better this way because they're interested and I got their
+go-ahead to publish their artwork!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+## Tue May 03, 2022
 ### Got An Electric Bike So We Can Canoe More
 
 Hi Adi. I bought an electric bike that we can throw in the canoe when we go
