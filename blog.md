@@ -7,6 +7,7 @@ permalink: /blog/
 ---
 
 
+- [Welcome To The Diamond Age](/blog/welcome-to-the-diamond-age/)
 - [Adi as Hashira Demon Slayer by Adi Levin](/blog/adi-as-hashira-demon-slayer-by-adi-levin/)
 - [Murray The Fury by Adi Levin](/blog/murray-the-fury-by-adi-levin/)
 - [Adi Cat by Adi Levin](/blog/adi-cat-by-adi-levin/)
