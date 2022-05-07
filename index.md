@@ -1,7 +1,7 @@
 ---
 description: Mike At Eleven is where I talk to my child's future-self.
 ---
-# {{ site.tagline }}
+# {{ site.welcome }}
 
 This is where I endeavor (no not that Endeavor) to talk to my kid at eleven.
 That is, at 11:00 AM or 11:00 PM every day. And maybe both. But sometimes
