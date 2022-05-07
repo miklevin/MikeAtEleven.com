@@ -93,6 +93,8 @@ greatest stories every written, and I believe the Alice/Dorothy of our time,
 although plenty of people think Harry Potter is that. I don't. I think it's
 Diamond Age. But only read it if you want to learn about subversion.
 
+![The Diamond Age](/assets/images/the-diamond-age-princess-nell.jpg)
+
 
 --------------------------------------------------------------------------------
 ## Wed May 04, 2022
