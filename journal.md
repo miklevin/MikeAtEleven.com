@@ -12,6 +12,57 @@ permalink: /journal/
 ## Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Fri May 06, 2022
+### How About Dungeons & Dragons Picnics On The River?
+
+Hi there Kiddo. Thinking about you every day. I just got some long plastic
+pipes to use as a sort of rail to load the canoe onto the car more easily. This
+will let me lift the canoe onto the top of the car more easily and encourage me
+to take you boating on the river more often this summer, just the two of us.
+
+{% include youtubePlayer.html id="q3e61xCQzKg" %}
+
+And unlike previous times when I said no to going downriver because of no way
+to get back to the car, this time we'll have the electric bike with us and we
+can go downriver just fine. I may let you ride on the bike with me back up to
+the car. We will take 2 helmets just in case.
+
+I got a few steaks for this weekend again. I got the steaks before you showed
+me that wonderful YouTube video about cooking in the drier. I subscribed to
+Food Theory. Ugh!
+
+{% include youtubePlayer.html id="6Luv2M5xokA" %}
+
+I can't wait to see you. I think I pick you up Sunday night and bring you back
+Monday night. I think I may call into work sick for a you & me day if you like.
+If you just want down-time, that's okay too! We will have plenty of canoe
+weekends this summer. Even after June I can keep the canoe in the storage place
+here and we can come out and do trips. D&D picnics on the river!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
 ## Thu May 05, 2022
 ### Welcome To The Diamond Age
 

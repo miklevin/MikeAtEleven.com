@@ -7,6 +7,7 @@ permalink: /blog/
 ---
 
 
+- [How About Dungeons & Dragons Picnics On The River?](/blog/how-about-dungeons-dragons-picnics-on-the-river/)
 - [Welcome To The Diamond Age](/blog/welcome-to-the-diamond-age/)
 - [Adi as Hashira Demon Slayer by Adi Levin](/blog/adi-as-hashira-demon-slayer-by-adi-levin/)
 - [Murray The Fury by Adi Levin](/blog/murray-the-fury-by-adi-levin/)
