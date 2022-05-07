@@ -5,6 +5,8 @@ title: "MikeAtEleven.com Blog"
 slug: blog
 permalink: /blog/
 ---
+# { site.title } Blog
+
 
 
 - [How About Dungeons & Dragons Picnics On The River?](/blog/how-about-dungeons-dragons-picnics-on-the-river/) 2022-05-05
