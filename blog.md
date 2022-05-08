@@ -6,7 +6,7 @@ slug: blog
 permalink: /blog/
 ---
 
-# {{ site.tagline }}
+# Welcome to The {{ site.tagline }} Blog
 
 - [Sunday Night to Monday Night](/blog/sunday-night-to-monday-night/) 2022-05-06
 - [How About Dungeons & Dragons Picnics On The River?](/blog/how-about-dungeons-dragons-picnics-on-the-river/) 2022-05-05
