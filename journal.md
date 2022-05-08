@@ -12,6 +12,36 @@ permalink: /journal/
 ## Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Sat May 07, 2022
+### Sunday Night to Monday Night
+
+Gonna launch your own website for you, together with you when you're here "this
+weekend". It'll be a Sunday night pick-up and a Monday night drop-off. We can
+also optionally have a river adventure!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
 ## Fri May 06, 2022
 ### How About Dungeons & Dragons Picnics On The River?
 
