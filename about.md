@@ -1,8 +1,10 @@
 ---
+title: {{ site.tagline }} | {{ site.apex }}
 description: About {{ site.apex }}
 permalink: /about/
-title: {{ site.tagline }} | {{ site.apex }}
+
 ---
+
 # About The {{ site.tagline }} Website & Blog
 
 - [{{ site.tagline }} Blog](/blog/)
