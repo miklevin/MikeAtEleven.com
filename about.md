@@ -2,7 +2,6 @@
 title: {{ site.tagline }} | {{ site.apex }}
 description: About {{ site.apex }}
 permalink: /about/
-
 ---
 
 # About The {{ site.tagline }} Website & Blog
