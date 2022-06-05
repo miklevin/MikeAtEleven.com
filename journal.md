@@ -12,6 +12,42 @@ permalink: /journal/
 ## Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Sun Jun 05, 2022
+
+Adi, now more than ever you need to know that I am here for you.
+
+There is so much to say, but much of it is going to have to wait.
+
+My deepest hope is to see you soon and to be there in the wings always to help
+you in your journey through life.
+
+Your Dad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
 ## Sat May 07, 2022
 ### Sunday Night to Monday Night
 
