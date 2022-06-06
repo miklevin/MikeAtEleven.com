@@ -8,7 +8,8 @@ permalink: /blog/
 
 # Welcome to The {{ site.tagline }} Blog
 
-- [Post 22](/blog/post-22/) 05/07/2022
+- [I'll Be the Fudge of That](/blog/ill-be-the-fudge-of-that/) 06/05/2022
+- [I'm Here For You Kiddo](/blog/im-here-for-you-kiddo/) 05/07/2022
 - [Sunday Night to Monday Night](/blog/sunday-night-to-monday-night/) 05/06/2022
 - [How About Dungeons & Dragons Picnics On The River?](/blog/how-about-dungeons-dragons-picnics-on-the-river/) 05/05/2022
 - [Welcome To The Diamond Age](/blog/welcome-to-the-diamond-age/) 05/04/2022

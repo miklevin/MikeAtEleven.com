@@ -12,7 +12,39 @@ permalink: /journal/
 ## Beginning of Journal
 
 --------------------------------------------------------------------------------
+## Mon Jun 06, 2022
+### I'll Be the Fudge of That
+
+I got you the Chocolate Fudge. Maybe I'll save you some of the Cheesecake Fudge
+if you'd like. Text me kiddo. I miss you lots and lots!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
 ## Sun Jun 05, 2022
+### I'm Here For You Kiddo
 
 Adi, now more than ever you need to know that I am here for you.
 
