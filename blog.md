@@ -1,7 +1,7 @@
 ---
 layout: default
 author: Mike Levin
-title: "MikeAtEleven.com Blog"
+title: "Mike At Eleven"
 slug: blog
 permalink: /blog/
 ---
