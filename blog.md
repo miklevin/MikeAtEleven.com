@@ -6,7 +6,7 @@ slug: blog
 permalink: /blog/
 ---
 
-# Welcome to The {{ site.tagline }} Blog
+# Welcome to The {{ page.title }} Blog
 
 - [I'll Be the Fudge of That](/blog/ill-be-the-fudge-of-that/) 06/06/2022
 - [I'm Here For You Kiddo](/blog/im-here-for-you-kiddo/) 06/05/2022
